@@ -1,4 +1,5 @@
 SQL + Data Analysis Project
+
 Online Retail Data Analysis (PostgreSQL)
 
 Objective 
